@@ -75,7 +75,5 @@ Cada nodo puede actuar como cliente y servidor a la vez. El sistema se comunica 
 ---
 
 ## 📸 Capturas del Proyecto
-
-### 🖥️ Interfaz principal del nodo
-![Fig 1.7](https://github.com/user-attachments/assets/e8de5e)
+Se encuentran en la documentación adjunta en este repositorio.
 
